@@ -1,11 +1,12 @@
 # linkedin_jobs_scraper
+```
 linkedin_jobs_scraper/
 ├── config.py              # All configuration and sensitive data
 ├── linkedin_scraper.py    # Main scraper (imports from config)
 ├── .env.example          # Example environment variables
 ├── .gitignore            # Protect sensitive files
 └── README.md             # Documentation
-
+```
 # Awesome n8n & AI Agents Resources
 
 This repository provides a curated list of free resources to learn n8n and AI agents, including official documentation, courses, tutorials, and GitHub repositories with n8n templates.
@@ -72,26 +73,48 @@ These GitHub repositories offer a wealth of pre-built n8n workflows and template
 ## References
 
 [1] [Text courses | n8n Docs](https://docs.n8n.io/courses/)
+
 [2] [Learning path | n8n Docs](https://docs.n8n.io/learning-path/)
+
 [3] [Video courses | n8n Docs](https://docs.n8n.io/video-courses/)
+
 [4] [Ultimate n8n Course: Beginner to Pro in 17 Hours (2026) - YouTube](https://www.youtube.com/watch?v=TZ43SRdTMs0)
+
 [5] [n8n Quick Start Tutorial: Build Your First Workflow [2025] - YouTube](https://www.youtube.com/watch?v=4cQWJViybAQ)
+
 [6] [n8n Tutorial for Beginners: How to Build AI Automations for Free - YouTube](https://www.youtube.com/watch?v=Fy1UCBcgF2o)
+
 [7] [AI Agents for Beginners - Microsoft Learn](https://learn.microsoft.com/en-us/shows/ai-agents-for-beginners/)
+
 [8] [GitHub - microsoft/ai-agents-for-beginners: 12 Lessons to Get Started Building AI Agents](https://github.com/microsoft/ai-agents-for-beginners)
+
 [9] [Mastering AI Agents: The 10 Best Free Courses, Tutorials & Learning Tools - Medium](https://medium.com/@maximilian.vogel/mastering-ai-agents-the-10-best-free-courses-tutorials-learning-tools-46bc380a19d1)
 [10] [AI Agent Course: Free Online Training - Salesforce](https://www.salesforce.com/agentforce/ai-agent-course/)
+
 [11] [Tutorial: Build an AI workflow in n8n | n8n Docs](https://docs.n8n.io/advanced-ai/intro-tutorial/)
+
 [12] [AI Agent node documentation | n8n Docs](https://docs.n8n.io/integrations/builtin/cluster-nodes/root-nodes/n8n-nodes-langchain.agent/)
+
 [13] [LangChain concepts in n8n - n8n Docs](https://docs.n8n.io/advanced-ai/langchain/langchain-n8n/)
+
 [14] [LangChain learning resources | n8n Docs](https://docs.n8n.io/advanced-ai/langchain/langchain-learning-resources/)
+
 [15] [How to Build AI Agents with n8n in 2025! (Full Course) - YouTube](https://www.youtube.com/watch?v=geR9PeCuHK4)
+
 [16] [Learn n8n to Design, Develop, and Deploy Production-Grade AI Agents - freeCodeCamp.org](https://www.freecodecamp.org/news/learn-n8n-to-design-develop-and-deploy-production-grade-ai-agents/)
+
 [17] [How to Build AI Agents with n8n for Automation - Strapi](https://strapi.io/blog/build-ai-agents-n8n)
+
 [18] [GitHub - enescingoz/awesome-n8n-templates: Supercharge your workflow automation with this curated collection of n8n templates!](https://github.com/enescingoz/awesome-n8n-templates)
+
 [19] [GitHub - wassupjay/n8n-free-templates: A curated set of 200+ plug-and-play n8n workflows that fuse classic automation with today’s AI stack—vector DBs, embeddings, and LLMs.](https://github.com/wassupjay/n8n-free-templates)
+
 [20] [GitHub - emretasss/AI-Workflow-Hub-2000-: 2000+ free N8N AI automation workflows. Discover, copy and use in your projects.](https://github.com/emretasss/AI-Workflow-Hub-2000-)
+
 [21] [GitHub - Marvomatic/n8n-templates: A collection of free & premium n8n automation templates](https://github.com/Marvomatic/n8n-templates)
+
 [22] [GitHub - AmplifyAutomation/n8n-templates: A comprehensive collection of resources for AI automation](https://github.com/AmplifyAutomation/n8n-templates)
+
 [23] [GitHub - Danitilahun/n8n-workflow-templates](https://github.com/Danitilahun/n8n-workflow-templates)
+
 [24] [GitHub - zengfr/n8n-workflow-all-templates](https://github.com/zengfr/n8n-workflow-all-templates)
